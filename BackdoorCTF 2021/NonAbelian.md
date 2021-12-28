@@ -40,7 +40,7 @@
   1. **det(M<sup>-1</sup>) = [det(M)]<sup>-1</sup>**
   2. **det(AB) = det(A) x det(B)**
 
-![img-meme](https://i.ibb.co/Qn9g3cF/image-2021-12-28-191044.png)
+![img-meme](./assets/meme.png)
 
 ## Given
 
