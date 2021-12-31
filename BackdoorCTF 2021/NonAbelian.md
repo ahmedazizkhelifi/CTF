@@ -25,7 +25,7 @@
 
 ### Details
 
-- Category: ---
+- Category: crypto - misc
 - Points: 500
 
 ### Description
