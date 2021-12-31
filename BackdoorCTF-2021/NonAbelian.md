@@ -30,7 +30,7 @@
 
 ### Description
 
-\---
+Non-abelian group based cryptography has become a latest trend in research (I wonder why?!), and I just had to try my hands on it.
 
 ## TL;DR
 
